@@ -5,7 +5,6 @@
 *.pdf
 *.psd
 *.sublime*
-.bowerrc
 node_modules/
 npm-debug.*
 app/css/*.css
